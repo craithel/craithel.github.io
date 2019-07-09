@@ -19,7 +19,7 @@ Hi! I'm a 5th-year graduate student in Astronomy & Astrophysics at the Universit
     <div class="row-fluid">
         <div class="span5">
             Carolyn Raithel <br/>
-            Email: craithel@email.arizona.edu <br/>
+            Email: craithel AT email.arizona.edu <br/>
         </div>
 
         <div class="span2">
