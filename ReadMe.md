@@ -1,6 +1,6 @@
-Hi! I'm Carolyn Raithel, a 5th-year astronomy graduate student at the University of Arizona.
+<!--Hi! I'm Carolyn Raithel, a 5th-year astronomy graduate student at the University of Arizona.
 
-My research interests include...
+#My research interests include... --!>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Carolyn's research
+description: My research
 ---
 
 #### <u>Neutron stars</u>

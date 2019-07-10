@@ -4,16 +4,14 @@ title: Publications
 description: Carolyn's publications
 ---
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+#### <u>You can my papers on <a href="https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22raithel%2C%20carolyn%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">ADS</a> or on <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=raithel%2C+carolyn&terms-0-field=author&terms-1-operator=OR&terms-1-term=raithel%2C+c.+a.&terms-1-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first">arXiv</a>.</u>
 
-
-This is a test. Is this a new page? Let's see!
+## <u>First author papers<\u>
 
 <ul type="square">
-   <li>Item 1</li>
-   <li>Item 2</li>
-   <li>Item 3</li>
+   <li><u>C. Raithel</u>, ..., </li>
+   <li><u>C. Raithel</u>,..., </li>
+   <li><u>C. Raithel</u>,..., </li>
 </ul>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
