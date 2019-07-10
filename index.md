@@ -33,7 +33,7 @@ Hi! I'm a 5th-year graduate student in Astronomy & Astrophysics at the Universit
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/raithel_cv.pdf">cv</a></li>
           <li><a href="https://github.com/craithel">GitHub</a></li>
       </ul>
   </div>
