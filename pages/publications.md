@@ -10,7 +10,7 @@ description: Carolyn's publications
 
 <ul type="square">
    <li>C. Raithel. "Constraints on the Neutron Star Equation of State from GW170817," Invited review for the EpJA Topical Issue on The First Neutron Star Merger Observation, 2019. <a href="https://epja.epj.org/articles/epja/abs/2019/05/10050_2019_Article_12759/10050_2019_Article_12759.html">EpJA</a> | <a href="https://arxiv.org/pdf/1904.10002.pdf">arXiv</a>. </li>
-   <li>C. A. Raithel, F. &#214zel, and D. Psaltis. "Finite-Temperature Extension for Cold Neutron Star Equations of State." ApJ, Vol. 875, Issue 1, article id. 12, 2019. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">ApJ</a> | <a href="https://arxiv.org/pdf/1902.10735.pdf">arXiv</a>. </li>
+   <li>C. A. Raithel, F. &Ouml;zel, and D. Psaltis. "Finite-Temperature Extension for Cold Neutron Star Equations of State." ApJ, Vol. 875, Issue 1, article id. 12, 2019. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">ApJ</a> | <a href="https://arxiv.org/pdf/1902.10735.pdf">arXiv</a>. </li>
    <li>C. Raithel,..., </li>
 </ul>
 
