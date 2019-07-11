@@ -21,7 +21,9 @@ keywords: a,b,c
 
    </div>
 
-   <div class="span4">
+   <div class="span3">
+	<br>
+	<br>
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Carolyn Raithel" alt="Carolyn Raithel"/></a>
