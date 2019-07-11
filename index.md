@@ -28,7 +28,7 @@ keywords: a,b,c
 		<br>
 		<a href="../assets/headshot.jpg">
 		    <img src="../assets/headshot.jpg" 
-			  hspace=80 
+			  hspace=20 
 			  title="Carolyn" alt="Carolyn"/></a>
    </div>
 </div>
