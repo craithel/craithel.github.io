@@ -23,12 +23,12 @@ keywords: a,b,c
 
    </div>
 
-   <div class="span4">
+   <div class="span4" padding-left: 20px;>
 		<br>
 		<br>
 		<a href="../assets/headshot.jpg">
 		    <img src="../assets/headshot.jpg"
-			  title="Carolyn Raithel" alt="Carolyn Raithel"/></a>
+			  title="Carolyn" alt="Carolyn"/></a>
    </div>
 </div>
 
