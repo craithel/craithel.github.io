@@ -4,7 +4,7 @@ title: Research
 description: My research
 ---
 
-#### <u>Neutron stars</u>
+#### <b>Neutron stars</b>
 *Neutron stars are really cool*
 
 <!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->
