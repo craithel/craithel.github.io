@@ -9,24 +9,26 @@ keywords: a,b,c
 <div class="row-fluid">
   <div class="span6">
    <h4><a name="bio"></a>bio</h4>
-   <p style="font-family:arial;">
+   <p style="font-family:helvetica;">
 	Hi! I'm a 5th-year graduate student in Astronomy & Astrophysics at the University of Arizona. My research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particular interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
 	<br>
 	<br>
 	Please note: This website is currently under construction...
+   </p>
    <h4><a name="contact"></a>contact</h4>
+   <p style="font-family:helvetica;">
         Carolyn Raithel <br/>
         Email: craithel AT email.arizona.edu <br/>
    </p>
 
    </div>
 
-   <div class="span3">
-	<br>
-	<br>
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Carolyn Raithel" alt="Carolyn Raithel"/></a>
+   <div class="span4">
+		<br>
+		<br>
+		<a href="../assets/headshot.jpg">
+		    <img src="../assets/headshot.jpg"
+			  title="Carolyn Raithel" alt="Carolyn Raithel"/></a>
    </div>
 </div>
 
