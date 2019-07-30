@@ -71,12 +71,8 @@ td.right {
 }
 
 
-h1, h2, h3 {
-    color: darkcyan;
-}
-
-h4{
-    color: midnightblue;
+h1, h2, h3, h4 {
+    color: darkslateblue;
 }
 
 .danger {
