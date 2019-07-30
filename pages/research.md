@@ -23,9 +23,9 @@ description: My research
    <html>
    <head>
    <style>
-   img {
-  	border-radius: 50%;
-   }
+    .img-circle {
+        border-radius: 50%;
+    }
    </style>
    </head>
    <body>
@@ -33,8 +33,8 @@ description: My research
    	<br>
         <br>
  	 <!--<a href="../assets/merger_graphic.jpg">-->
-	 <div style="width:300px; font-size:80%; text-align:center;">
-	    <img src="../assets/merger_graphic.jpg" 
+	 <div style="width:300; height=300; font-size:80%; text-align:center;">
+	    <img class="img-circle" src="../assets/merger_graphic.jpg" 
 		  style="padding-bottom:0.5em;"/>
 	 Artistic representation of a NS-NS merger from Robin Dienel/Carnegie Institution for Science.
 	 </div>
