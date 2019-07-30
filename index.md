@@ -54,14 +54,14 @@ img {
   align-items: stretch;
   justify-items: center;
   margin: auto;
-  width: 250px;
+  width: 220px;
   }
 .grid img {
   border: 1px solid rgba(0,0,0,0.3);
   box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
   max-width: 100%;
 }
-.grid img:nth-child(2) {
+.grid img:nth-child(1) {
   grid-column: span 2;
   grid-row: span 2;
   }
