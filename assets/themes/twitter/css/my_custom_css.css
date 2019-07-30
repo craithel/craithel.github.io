@@ -24,7 +24,7 @@
 }
 
 nav a {
-color:red
+  color:red !important;
 }
 
 code {
