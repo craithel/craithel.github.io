@@ -81,7 +81,7 @@ description: My research
    <br>
    <br>
    <div style="width:300px; font-size:80%; text-align:center; align:left;">
-   <img src="../assets/schematic_T_Yp.jpg" align=left
+   <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em;"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
    <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Raithel, Ozel, Psaltis (2019).</a>
