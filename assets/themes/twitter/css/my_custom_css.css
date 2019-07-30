@@ -23,6 +23,12 @@
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
 }
 
+.navbar-nav a{
+  color: darkcyan !important;
+}
+
+
+
 code {
   padding: 0;
   font-size: 90%;
@@ -32,20 +38,18 @@ code {
 }
 
 a code {
-    /*color: #slateblue;*/
-    color: darkcyan;
+    color: #slateblue;
 }
 
 a {
-    /*color: #slateblue;*/
-    color: darkcyan;
+    color: #slateblue;
 }
 
 a:hover {
     /*color: #slateblue;*/
     /*background-color: #e3e4fa;*/
-    color: darkcyan;
-    background-color: #d6f5f5;
+    /*color: darkcyan;*/
+    background-color:  #e6e6e6;
     text-decoration: none;
 }
 
