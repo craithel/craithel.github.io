@@ -15,14 +15,17 @@ description: My research
    </p>
    </div>
 
-   <div class="span4" style="width:image width px; font-size:80%; text-align:center;">
-		<br>
-		<br>
-		<a href="../assets/merger_graphic.jpg">
+   <div class="span4">
+   	<br>
+        <br>
+ 	 <a href="../assets/merger_graphic.jpg">
+		<div style="width:image width px; font-size:80%; text-align:center;">
 		    <img src="../assets/merger_graphic.jpg" 
-			  title="Carolyn" alt="Carolyn"
-		          style="padding-bottom:0.5em;/></a>
-   This is the caption.	
+			  title="Artistic representation of NS-NS merger" alt="NS-NS Merger"
+		          style="padding-bottom:0.5em;"/>
+		Artistic representation of a NS-NS merger from Robin Dienel/Carnegie Institution for Science.
+		</div>
+	 </a>
    </div>
 </div>
 
