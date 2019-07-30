@@ -34,13 +34,12 @@ code {
 
 a code {
     /*color: #slateblue; */
-    color: gray;
+    color: pink;
 
 }
 
 a {
-    /*color: #slateblue;*/
-    color: cyan;
+    color: #slateblue;  /* color for active links */
 }
 
 a:hover {
