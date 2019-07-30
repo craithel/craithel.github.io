@@ -8,12 +8,18 @@ keywords: a,b,c
 
 <div class="row-fluid">
   <div class="span6">
-   <h3><a name="Bio"></a>Bio</h3>
+   <h3><a name="About me"></a>Bio</h3>
    <p style="font-family:helvetica;">
-	Hi! I'm a 5th-year graduate student in Astronomy & Astrophysics at the University of Arizona. My research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particular interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
+	Hi! I'm a 5th-year graduate student in Astronomy & Astrophysics at the University of Arizona, where I work with Dr. Feryal &Ouml;zel.
 	<br>
 	<br>
-	Please note: This website is currently under construction...
+	I grew up in Cincinnati, OH. In 2015, I received my B.A. in physics from Carleton College in Northfield, MN, where I worked with Dr. Joel Weisbergstudying radio pulsars.
+	<br>
+	<br>
+ My current research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particular interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
+	<br>
+	<br>
+	*Please forgive the mess -- this website is currently under construction...*
    </p>
    <h3><a name="Contact"></a>Contact</h3>
    <p style="font-family:helvetica;">
