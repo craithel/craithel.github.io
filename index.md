@@ -69,8 +69,8 @@ img {
 <div class="span4">
 <main class="grid">
   <img src="../assets/computer_shot.jpg">
-  <img src="../assets/headshot.jpg">
   <img src="../assets/einstein.jpg">
+  <img src="../assets/headshot.jpg">
 </main>
 </div>
 
