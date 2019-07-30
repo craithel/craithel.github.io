@@ -23,6 +23,10 @@
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
 }
 
+.navbar-default.navbar .navbar-nav>li>a {
+  color: pink;
+}
+
 
 code {
   padding: 0;
@@ -33,14 +37,12 @@ code {
 }
 
 a code {
-    /* color: #slateblue; */
-    color: red;
+    color: #slateblue; 
 
 }
 
 a {
-    /* color: #slateblue; */
-    color: red;
+    color: #slateblue;
 }
 
 a:hover {
