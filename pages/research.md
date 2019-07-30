@@ -43,7 +43,7 @@ description: My research
   <br>
   <br>
    <div style="width:image width px; font-size:80%; text-align:center;">
-   <img src="../assets/Leff_R_withPDF_overlay" 
+   <img src="../assets/Leff_R_withPDF_overlay.jpg" 
 	  style="padding-bottom:0.5em;"/>
    <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">Tidal deformability as a direct probe of the neutron star radius."</a>
    </div>
@@ -62,7 +62,7 @@ description: My research
   <br>
   <br>
    <div style="width:image width px; font-size:80%; text-align:center;">
-   <img src="../assets/schematic_T_Yp" 
+   <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em;"/>
    <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Range of temperatures and compositions probed by various terrestrial and astrophysical experiments."</a>
    </div>
