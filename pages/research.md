@@ -88,6 +88,7 @@ description: My research
 	  width="300"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
    <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Raithel, Ozel, Psaltis (2019).</a>
+   </div>
  </div>
 
  <div class="span6">
