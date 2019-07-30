@@ -23,6 +23,9 @@
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
 }
 
+nav a {
+color:red
+}
 
 code {
   padding: 0;
@@ -34,7 +37,7 @@ code {
 
 a code {
     /*color: #slateblue; */
-    color: pink;
+    color: pink;	/* not directly connected to anything??? */
 
 }
 
