@@ -61,7 +61,6 @@ description: My research
 	directly compare existing radius measurements with new gravitational wave detections.
    </p>
  </div>
-
  <div class="span4">
    <div style="width:300px; font-size:80%; text-align:center;">
    <img src="../assets/Leff_R_withPDF_overlay.jpg" 
