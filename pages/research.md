@@ -35,7 +35,7 @@ description: My research
  	 <!--<a href="../assets/merger_graphic.jpg">-->
 	 <div style="width:300px; font-size:80%; text-align:center;">
 	    <img class="img-circle" src="../assets/merger_graphic.jpg" 
-		  width=300; height=300;
+		  width=300 height=300
 		  style="padding-bottom:0.5em;"/>
 	 Artistic representation of a NS-NS merger from Robin Dienel/Carnegie Institution for Science.
 	 </div>

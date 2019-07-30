@@ -30,7 +30,7 @@ img {
  My current research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particular interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
 	<br>
 	<br>
-	<i>Please forgive the mess -- this website is currently under construction...</i>
+	<i>Please excuse the mess -- this website is currently under construction...</i>
    </p>
    <h3><a name="Contact"></a>Contact</h3>
    <p style="font-family:helvetica;">
