@@ -93,8 +93,6 @@ description: My research
 	We have created a new model of finite-temperature effects in dense-matter that includes more robust physics and
 	remains generally applicable to a wide class of equations of state. This model will allow for more accurate studies of
 	the role of thermal effects in neutron star mergers, core-collapse supernovae, and the cooling of proto-neutron stars.
-	<br>
-	test
    </p>
  </div>
 </div>
