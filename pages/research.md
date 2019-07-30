@@ -9,9 +9,9 @@ description: My research
 
 <div class="row-fluid">
   <div class="span6">
-   <h4><a name="Neutron stars"></a>bio</h4>
+   <h4><a name="Neutron stars"></a><b>Neutron stars</b></h4>
    <p style="font-family:helvetica;">
-	General description of neutron stars
+	Neutron stars are really cool
    </p>
    </div>
 
@@ -27,6 +27,46 @@ description: My research
 	 </div>
 	 <!--</a>-->
    </div>
+</div>
+
+
+#### <b>Recent results</b>
+<div class="row-fluid">
+ <div class="span6">
+   <h4><a name="Tidal deformability"></a>Tidal deformability and NS radius</h4>
+   <p style="font-family:helvetica;">
+	Connection btwn lambda-tilde and radius
+   </p>
+ </div>
+
+ <div class="span4">
+  <br>
+  <br>
+   <div style="width:image width px; font-size:80%; text-align:center;">
+   <img src="../assets/Leff_R_withPDF_overlay.pdf" 
+	  style="padding-bottom:0.5em;"/>
+   <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">Tidal deformability as a direct probe of the neutron star radius."</a>
+   </div>
+ </div>
+</div>
+
+<div class="row-fluid">
+ <div class="span6">
+   <h4><a name="Finite temperature effects"></a>New model for thermal effects in NS pheneomena</h4>
+   <p style="font-family:helvetica;">
+	New model for finite-temperature effects, for use in simulations of NS mergers, supernovae, proto-NS cooling
+   </p>
+ </div>
+
+ <div class="span4">
+  <br>
+  <br>
+   <div style="width:image width px; font-size:80%; text-align:center;">
+   <img src="../assets/schematic_T_Yp.pdf" 
+	  style="padding-bottom:0.5em;"/>
+   <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Range of temperatures and compositions probed by various terrestrial and astrophysical experiments."</a>
+   </div>
+ </div>
 </div>
 
 <!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->
