@@ -45,7 +45,9 @@ description: My research
    <div style="width:image width px; font-size:80%; text-align:center;">
    <img src="../assets/Leff_R_withPDF_overlay.jpg" 
 	  style="padding-bottom:0.5em;"/>
-   <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">Tidal deformability as a direct probe of the neutron star radius."</a>
+   Tidal deformability from GW170817 can directly probe the neutron star radius.
+   <a href="https://iopscience.iop.org/article/10.3847/2041-8213/aabcbf">Raithel, Ozel, Psaltis (2018).</a>
+   <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">Raithel (2019).</a>
    </div>
  </div>
 </div>
@@ -64,7 +66,8 @@ description: My research
    <div style="width:image width px; font-size:80%; text-align:center;">
    <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em;"/>
-   <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Range of temperatures and compositions probed by various terrestrial and astrophysical experiments."</a>
+   Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
+   <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Raithel, Ozel, Psaltis (2019).</a>
    </div>
  </div>
 </div>
