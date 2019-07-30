@@ -32,16 +32,20 @@ code {
 }
 
 a code {
-    color: #slateblue;
+    /*color: #slateblue;*/
+    color: darkcyan;
 }
 
 a {
-    color: #slateblue;
+    /*color: #slateblue;*/
+    color: darkcyan;
 }
 
 a:hover {
-    color: darkslateblue;
-    background-color: #e3e4fa;
+    /*color: #slateblue;*/
+    /*background-color: #e3e4fa;*/
+    color: darkcyan;
+    background-color: #d6f5f5;
     text-decoration: none;
 }
 
