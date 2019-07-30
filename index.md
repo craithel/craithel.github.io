@@ -41,11 +41,9 @@ img {
    </div>
 
    <div class="span4">
-		<br>
-		<br>
-		<a href="../assets/headshot.jpg">
-		    <img src="../assets/headshot.jpg" 
-			  title="Carolyn" alt="Carolyn"/></a>
+	<br>
+	<br>
+   	<img src="../assets/headshot.jpg"/>
    </div>
 </div>
 
