@@ -70,7 +70,7 @@ img {
 <main class="grid">
   <img src="../assets/computer_shot.jpg" width="300">
   <img src="../assets/einstein.jpg">
-  <img src="../assets/headshot.jpg">
+  <img src="../assets/nature.jpg">
 </main>
 </div>
 
