@@ -63,8 +63,6 @@ description: My research
  </div>
 
  <div class="span4">
-  <br>
-  <br>
    <div style="width:300px; font-size:80%; text-align:center;">
    <img src="../assets/Leff_R_withPDF_overlay.jpg" 
 	  style="padding-bottom:0.5em;"/>
