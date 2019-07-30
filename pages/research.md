@@ -7,23 +7,11 @@ description: My research
 *Neutron stars are really cool* -->
 
 <div class="row-fluid">
-   <div class="span4">
-   	<br>
-        <br>
- 	 <!--<a href="../assets/merger_graphic.jpg">-->
-	 <div style="width:image width px; font-size:80%; text-align:center;">
-	    <img src="../assets/merger_graphic.jpg" 
-		  style="padding-bottom:0.5em;"/>
-	 Artistic representation of a NS-NS merger from Robin Dienel/Carnegie Institution for Science.
-	 </div>
-	 <!--</a>-->
-   </div>
-
   <div class="span6">
    <h4><a name="Neutron stars"></a><b>Neutron stars</b></h4>
    <p style="font-family:helvetica;">
-	Neutron stars are one of the most extreme environments in the universe. Their central densities exceed <1e15> 
-	grams per cubic centimeter -- making them orders of magnitude more dense than any matter that we can 
+	Neutron stars are one of the most extreme environments in the universe. Their central densities exceed 10<sup>15</sup> 
+	g/cm<sup>3</sup>, making them orders of magnitude more dense than any matter that we can 
 	create on Earth. What happens when matter is compressed to such extreme densities is one of the biggest questions in
 	modern nuclear physics. My research works to connect astrophysical observations of neutron stars with detailed models of the 
 	stellar interior, in order to understand the fundamental nature of ultra-dense matter. This will in turn help astronomers
@@ -32,6 +20,28 @@ description: My research
    </p>
    </div>
 
+   <html>
+   <head>
+   <style>
+   img {
+  	border-radius: 50%;
+   }
+   </style>
+   </head>
+   <body>
+   <div class="span4">
+   	<br>
+        <br>
+ 	 <!--<a href="../assets/merger_graphic.jpg">-->
+	 <div style="width:300px; font-size:80%; text-align:center;">
+	    <img src="../assets/merger_graphic.jpg" 
+		  style="padding-bottom:0.5em;"/>
+	 Artistic representation of a NS-NS merger from Robin Dienel/Carnegie Institution for Science.
+	 </div>
+	 <!--</a>-->
+   </div>
+   </body>
+   </html>
 
 </div>
 
@@ -54,7 +64,7 @@ description: My research
  <div class="span4">
   <br>
   <br>
-   <div style="width:image width px; font-size:80%; text-align:center;">
+   <div style="width:300px; font-size:80%; text-align:center;">
    <img src="../assets/Leff_R_withPDF_overlay.jpg" 
 	  style="padding-bottom:0.5em;"/>
    Tidal deformability from GW170817 can directly probe the neutron star radius.
@@ -70,7 +80,7 @@ description: My research
  <div class="span4">
   <br>
   <br>
-   <div style="width:image width px; font-size:80%; text-align:center;">
+   <div style="width:300px; font-size:80%; text-align:center;">
    <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em;"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
