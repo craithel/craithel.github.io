@@ -13,7 +13,6 @@ description: My research
  	 <!--<a href="../assets/merger_graphic.jpg">-->
 	 <div style="width:image width px; font-size:80%; text-align:center;">
 	    <img src="../assets/merger_graphic.jpg" 
-		  title="Artistic representation of NS-NS merger" alt="NS-NS Merger"
 		  style="padding-bottom:0.5em;"/>
 	 Artistic representation of a NS-NS merger from Robin Dienel/Carnegie Institution for Science.
 	 </div>
@@ -23,7 +22,13 @@ description: My research
   <div class="span6">
    <h4><a name="Neutron stars"></a><b>Neutron stars</b></h4>
    <p style="font-family:helvetica;">
-	Neutron stars are really cool
+	Neutron stars are one of the most extreme environments in the universe. Their central densities exceed <1e15> 
+	grams per cubic centimeter -- making them orders of magnitude more dense than any matter that we can 
+	create on Earth. What happens when matter is compressed to such extreme densities is one of the biggest questions in
+	modern nuclear physics. My research works to connect astrophysical observations of neutron stars with detailed models of the 
+	stellar interior, in order to understand the fundamental nature of ultra-dense matter. This will in turn help astronomers
+	better understand observations of a vast array of neutron star phenomena -- from core-collapse supernovae, to neutron star mergers
+	and gamma-ray bursts.
    </p>
    </div>
 
@@ -33,6 +38,18 @@ description: My research
 
 ### <b>Recent results</b>
 <div class="row-fluid">
+ <div class="span6">
+   <h4><a name="Tidal deformability"></a>Tidal deformability and NS radius</h4>
+   <p style="font-family:helvetica;">
+	In 2017, the LIGO/Virgo Collaboration observed the first gravitational wave signal from the merging of two neutron stars. 
+	As part of this discovery, the collaboration was able to measure the <i>tidal deformability</i> of the neutron stars, which tells us
+	how easy or difficult it is to rip a star apart.
+	In analyzing this event, I discovered a new relationship that directly 
+	connects the tidal deformability with the pre-merger stellar radius. Radii have been measured for several neutron stars; but 
+	the 2017 event was the first ever measurement of a tidal deformability. This new relationship will allow us to
+	directly compare existing radius measurements with new gravitational wave detections.
+   </p>
+ </div>
 
  <div class="span4">
   <br>
@@ -45,14 +62,6 @@ description: My research
    <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">Raithel (2019).</a>
    </div>
  </div>
-
- <div class="span6">
-   <h4><a name="Tidal deformability"></a>Tidal deformability and NS radius</h4>
-   <p style="font-family:helvetica;">
-	Connection btwn lambda-tilde and radius
-   </p>
- </div>
-
 </div>
 
 
@@ -72,7 +81,14 @@ description: My research
  <div class="span6">
    <h4><a name="Finite temperature effects"></a>New model for thermal effects in NS pheneomena</h4>
    <p style="font-family:helvetica;">
-	New model for finite-temperature effects, for use in simulations of NS mergers, supernovae, proto-NS cooling
+	When we model the interior structure of neutron stars, we can usually assume the star is "cold" -- that is, for old, 
+	isolated, neutron stars, they have cooled enough that the thermal pressure is negligible. However, in extreme 
+	enviroments, such as during the merging of two neutron stars or in the formation of a proto-neutron star 
+	during a core-collapse supernova, the thermal effects become important again. Many previous simulations of mergers and
+	supernovae relied on simplified physics to model these thermal effects, in order to keep the calculations tractable.
+	We have created a new model of finite-temperature effects in dense-matter that includes more robust physics and
+	remains generally applicable to a wide class of equations of state. This model will allow for more accurate studies of
+	the role of thermal effects in neutron star mergers, core-collapse supernovae, and the cooling of proto-neutron stars.
    </p>
  </div>
 </div>
