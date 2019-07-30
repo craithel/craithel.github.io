@@ -78,7 +78,8 @@ description: My research
 <div class="row-fluid">
  <h4><a name="Thermal effects"></a>Thermal effects in dynamical phenomena</h4>
  <div class="span10">
-   <div style="width:300px; font-size:80%; text-align:center; float:left;">
+   <div style="width:300px; font-size:80%; text-align:center; float:left;
+		margin-bottom:10px margin-right:10px">
    <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em;"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
