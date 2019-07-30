@@ -54,7 +54,7 @@ img {
   align-items: start;
   justify-items: center;
   margin: auto;
-  width: 220px;
+  width: 240px;
   }
 .grid img {
   border: 1px solid rgba(0,0,0,0.3);
@@ -68,9 +68,9 @@ img {
 </style>
 <div class="span4">
 <main class="grid">
-  <img src="../assets/computer_shot.jpg" alt="Sample photo">
-  <img src="../assets/headshot.jpg" alt="Sample photo">
-  <img src="../assets/einstein.jpg" alt="Sample photo">
+  <img src="../assets/computer_shot.jpg" alt="Sample photo" width="220">
+  <img src="../assets/headshot.jpg" alt="Sample photo" width="100">
+  <img src="../assets/einstein.jpg" alt="Sample photo" width="100">
 </main>
 </div>
 
