@@ -3,6 +3,19 @@ layout: page
 title: Research
 description: My research
 ---
+<html>
+<head>
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+</head>
+<body>
+
 
 <!-- #### <b>Neutron stars</b>
 *Neutron stars are really cool* -->
@@ -71,6 +84,10 @@ description: My research
    </div>
  </div>
 </div>
+
+</body>
+</html>
+
 
 <!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->
 
