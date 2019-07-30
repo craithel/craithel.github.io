@@ -79,19 +79,18 @@ description: My research
 
 <div class="row-fluid">
  <h4><a name="Thermal effects"></a>Thermal effects in dynamical phenomena</h4>
- <div class="span4">
+ <div class="span5">
    <br>
    <br>
    <div style="width:300px; font-size:80%; text-align:center;">
    <img src="../assets/schematic_T_Yp.jpg" 
-	  style="padding-bottom:0.5em;"
-	  width="300"/>
+	  style="padding-bottom:0.5em;"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
    <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Raithel, Ozel, Psaltis (2019).</a>
    </div>
  </div>
 
- <div class="span6">
+ <div class="span5">
    <p style="font-family:helvetica;">
 	When we model the interior structure of neutron stars, we can usually assume the star is "cold" -- that is, for old, 
 	isolated, neutron stars, they have cooled enough that the thermal pressure is negligible. However, in extreme 
