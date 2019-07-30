@@ -30,7 +30,7 @@ description: My research
 </div>
 
 
-## <b>Recent results</b>
+### <b>Recent results</b>
 <div class="row-fluid">
  <div class="span6">
    <h4><a name="Tidal deformability"></a>Tidal deformability and NS radius</h4>
