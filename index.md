@@ -58,7 +58,7 @@ img {
   }
 .grid img {
   border: 1px solid rgba(0,0,0,0.3);
-  box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
+  box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.3);
   max-width: 100%;
 }
 .grid img:nth-child(1) {
@@ -68,7 +68,7 @@ img {
 </style>
 <div class="span4">
 <main class="grid">
-  <img src="../assets/computer_shot.jpg" width="300">
+  <img src="../assets/computer_shot.jpg" width="400">
   <img src="../assets/einstein.jpg">
   <img src="../assets/nature.jpg">
 </main>
