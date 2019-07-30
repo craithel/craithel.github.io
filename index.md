@@ -51,10 +51,10 @@ img {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   grid-gap: 10px;
-  align-items: start;
+  align-items: stretch;
   justify-items: center;
   margin: auto;
-  width: 220px;
+  width: 250px;
   }
 .grid img {
   border: 1px solid rgba(0,0,0,0.3);
@@ -68,9 +68,9 @@ img {
 </style>
 <div class="span4">
 <main class="grid">
-  <img src="../assets/computer_shot.jpg" width="200" height="100">
-  <img src="../assets/headshot.jpg" width="100" height="200">
-  <img src="../assets/einstein.jpg" width="100" height="200">
+  <img src="../assets/computer_shot.jpg">
+  <img src="../assets/headshot.jpg">
+  <img src="../assets/einstein.jpg">
 </main>
 </div>
 
