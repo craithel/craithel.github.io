@@ -7,7 +7,7 @@ description: My research
 *Neutron stars are really cool* -->
 
 <div class="row-fluid">
-  <div class="span8">
+  <div class="span5">
    <h4><a name="Neutron stars"></a><b>Neutron stars</b></h4>
    <p style="font-family:helvetica;">
 	Neutron stars are one of the most extreme environments in the universe. Their central densities exceed 10<sup>15</sup> 
@@ -29,7 +29,7 @@ description: My research
    </style>
    </head>
    <body>
-   <div class="span6">
+   <div class="span5">
    	<br>
         <br>
  	 <!--<a href="../assets/merger_graphic.jpg">-->
@@ -50,7 +50,7 @@ description: My research
 
 ### <b>Recent results</b>
 <div class="row-fluid">
- <div class="span8">
+ <div class="span5">
    <h4><a name="Tidal deformability"></a>Tidal deformability and NS radius</h4>
    <p style="font-family:helvetica;">
 	In 2017, the LIGO/Virgo Collaboration observed the first gravitational wave signal from the merging of two neutron stars. 
@@ -63,7 +63,7 @@ description: My research
    </p>
  </div>
 
- <div class="span6">
+ <div class="span5">
   <br>
   <br>
    <div style="width:300px; font-size:80%; text-align:center;">
@@ -78,7 +78,7 @@ description: My research
 </div>
 
 
-<div class="span15">
+<div class="span10">
    <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em; align=left" 
 	  width="300"/>
