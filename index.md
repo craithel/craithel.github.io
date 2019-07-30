@@ -27,6 +27,16 @@ keywords: a,b,c
 
    </div>
 
+  <html>
+  <head>
+  <style>
+  img {
+    border-radius: 50%;
+  }
+  </style>
+  </head>
+  <body>
+
    <div class="span4">
 		<br>
 		<br>
@@ -34,6 +44,9 @@ keywords: a,b,c
 		    <img src="../assets/headshot.jpg" 
 			  title="Carolyn" alt="Carolyn"/></a>
    </div>
+  </body>
+  </html>
+
 </div>
 
 
