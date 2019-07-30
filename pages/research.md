@@ -12,7 +12,7 @@ description: My research
    <p style="font-family:helvetica;">
 	Neutron stars are one of the most extreme environments in the universe. Their central densities exceed 10<sup>15</sup> 
 	g/cm<sup>3</sup>, making them orders of magnitude more dense than any matter that we can 
-	create on Earth. What happens when matter is compressed to such extreme densities is one of the biggest questions in
+	create on Earth. What happens when matter is compressed to such densities is one of the biggest questions in
 	modern nuclear physics. My research works to connect astrophysical observations of neutron stars with detailed models of the 
 	stellar interior, in order to understand the fundamental nature of ultra-dense matter. This will in turn help astronomers
 	better understand observations of a vast array of neutron star phenomena, from core-collapse supernovae, to neutron star merger
@@ -78,9 +78,7 @@ description: My research
 <div class="row-fluid">
  <h4><a name="Thermal effects"></a>Thermal effects in dynamical phenomena</h4>
  <div class="span10">
-   <br>
-   <br>
-   <div style="width:300px; font-size:80%; text-align:center; align:left;">
+   <div style="width:300px; font-size:80%; text-align:center; float:left;">
    <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em;"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
