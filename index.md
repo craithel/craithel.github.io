@@ -68,8 +68,8 @@ img {
 </style>
 <div class="span4">
 <main class="grid">
-  <img src="../assets/headshot.jpg" alt="Sample photo">
   <img src="../assets/computer_shot.jpg" alt="Sample photo">
+  <img src="../assets/headshot.jpg" alt="Sample photo">
   <img src="../assets/einstein.jpg" alt="Sample photo">
 </main>
 </div>
