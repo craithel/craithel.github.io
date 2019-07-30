@@ -67,6 +67,8 @@ img {
   }
 </style>
 <div class="span4">
+<br>
+<br>
 <main class="grid">
   <img src="../assets/computer_shot.jpg" width="400">
   <img src="../assets/einstein.jpg">
