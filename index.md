@@ -4,6 +4,19 @@ title: Carolyn Raithel
 description: Hi! I am a 5th-year astronomy graduate student at the University of Arizona.
 keywords: a,b,c
 ---
+<html>
+<head>
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+</head>
+<body>
+
 
 
 <div class="row-fluid">
@@ -27,16 +40,6 @@ keywords: a,b,c
 
    </div>
 
-  <html>
-  <head>
-  <style>
-  img {
-    border-radius: 50%;
-  }
-  </style>
-  </head>
-  <body>
-
    <div class="span4">
 		<br>
 		<br>
@@ -44,11 +47,10 @@ keywords: a,b,c
 		    <img src="../assets/headshot.jpg" 
 			  title="Carolyn" alt="Carolyn"/></a>
    </div>
-  </body>
-  </html>
-
 </div>
 
+</body>
+</html>
 
 <!--
 <p style="font-family:helvetica;">
