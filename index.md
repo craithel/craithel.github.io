@@ -8,7 +8,7 @@ keywords: a,b,c
 <head>
 <style>
 img {
-  border: 5px solid #ddd;
+  border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   width: 150px;
