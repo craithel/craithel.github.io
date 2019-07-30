@@ -13,13 +13,13 @@ keywords: a,b,c
 	Hi! I'm a 5th-year graduate student in Astronomy & Astrophysics at the University of Arizona, where I work with Dr. Feryal &Ouml;zel.
 	<br>
 	<br>
-	I grew up in Cincinnati, OH. In 2015, I received my B.A. in physics from Carleton College in Northfield, MN, where I worked with Dr. Joel Weisbergstudying radio pulsars.
+ 	<!--I grew up in Cincinnati, OH. In 2015, I received my B.A. in physics from Carleton College in Northfield, MN, where I worked with Dr. Joel Weisbergstudying radio pulsars. --!>
 	<br>
 	<br>
  My current research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particular interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
 	<br>
 	<br>
-	*Please forgive the mess -- this website is currently under construction...*
+	<i>Please forgive the mess -- this website is currently under construction...</i>
    </p>
    <h3><a name="Contact"></a>Contact</h3>
    <p style="font-family:helvetica;">
