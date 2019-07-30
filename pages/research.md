@@ -33,7 +33,7 @@ description: My research
    	<br>
         <br>
  	 <!--<a href="../assets/merger_graphic.jpg">-->
-	 <div style="width:300px; font-size:80%; text-align:center;">
+	 <div style="width:400px; font-size:80%; text-align:center;">
 	    <img class="img-circle" src="../assets/merger_graphic.jpg" 
 		  width=300 height=300
 		  style="padding-bottom:0.5em;"/>
@@ -73,11 +73,11 @@ description: My research
    <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">Raithel (2019).</a>
    </div>
  </div>
+
 </div>
 
-
+/*
 <div class="row-fluid">
-
  <div class="span4">
   <br>
   <br>
@@ -88,7 +88,6 @@ description: My research
    <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Raithel, Ozel, Psaltis (2019).</a>
    </div>
  </div>
-
  <div class="span6">
    <h4><a name="Finite temperature effects"></a>New model for thermal effects in NS pheneomena</h4>
    <p style="font-family:helvetica;">
@@ -103,7 +102,23 @@ description: My research
    </p>
  </div>
 </div>
+*/
 
+
+   <img src="../assets/schematic_T_Yp.jpg" 
+	  style="padding-bottom:0.5em; align=left"/>
+   Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
+   <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Raithel, Ozel, Psaltis (2019).</a>
+   <p style="font-family:helvetica;">
+	When we model the interior structure of neutron stars, we can usually assume the star is "cold" -- that is, for old, 
+	isolated, neutron stars, they have cooled enough that the thermal pressure is negligible. However, in extreme 
+	enviroments, such as during the merging of two neutron stars or in the formation of a proto-neutron star 
+	during a core-collapse supernova, the thermal effects become important again. Many previous simulations of mergers and
+	supernovae relied on simplified physics to model these thermal effects, in order to keep the calculations tractable.
+	We have created a new model of finite-temperature effects in dense-matter that includes more robust physics and
+	remains generally applicable to a wide class of equations of state. This model will allow for more accurate studies of
+	the role of thermal effects in neutron star mergers, core-collapse supernovae, and the cooling of proto-neutron stars.
+   </p>
 
 <!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->
 
