@@ -78,12 +78,11 @@ description: My research
 <div class="row-fluid">
  <h4><a name="Thermal effects"></a>Thermal effects in dynamical phenomena</h4>
  <div class="span10">
-   <div style="width:300px; font-size:80%; text-align:center; float:left; margin-right:20px; margin-bottom:10px">
+   <div style="width:300px; font-size:80%; text-align:center; float:left; margin-right:15px; margin-bottom:15px">
    <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em;"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments. <br>
    <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Raithel, Ozel, Psaltis (2019).</a>
-   <br>
    </div>
 
    <p style="font-family:helvetica;">
