@@ -68,9 +68,9 @@ img {
 </style>
 <div class="span4">
 <main class="grid">
-  <img src="/pix/samples/22m.jpg" alt="Sample photo">
-  <img src="/pix/samples/1m.jpg" alt="Sample photo">
-  <img src="/pix/samples/6m.jpg" alt="Sample photo">
+  <img src="../assets/headshot.jpg" alt="Sample photo">
+  <img src="../assets/computer_shot.jpg" alt="Sample photo">
+  <img src="../assets/einstein.jpg" alt="Sample photo">
 </main>
 </div>
 
