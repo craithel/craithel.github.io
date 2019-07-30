@@ -41,9 +41,8 @@ img {
    </div>
 
    <div class="span4">
-	<br>
-	<br>
-   	<img src="../assets/headshot.jpg"/>
+   	<img src="../assets/headshot.jpg" width="100"/>
+   	<img src="../assets/computer_shot.jpg" width="100"/>
    </div>
 </div>
 
