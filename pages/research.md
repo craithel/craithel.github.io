@@ -49,8 +49,8 @@ description: My research
 
 ### <b>Recent results</b>
 <div class="row-fluid">
+ <h4><a name="Tidal deformability"></a>Tidal deformability and NS radius</h4>
  <div class="span6">
-   <h4><a name="Tidal deformability"></a>Tidal deformability and NS radius</h4>
    <p style="font-family:helvetica;">
 	In 2017, the LIGO/Virgo Collaboration observed the first gravitational wave signal from the merging of two neutron stars. 
 	As part of this discovery, the collaboration was able to measure the <i>tidal deformability</i> of the neutron stars, which tells us
@@ -78,8 +78,8 @@ description: My research
 
 
 <div class="row-fluid">
+ <h4><a name="Thermal effects"></a>Thermal effects in dynamical phenomena</h4>
  <div class="span4">
-   <h4><a name="Thermal effects"></a>Thermal effects in dynamical phenomena</h4>
    <br>
    <br>
    <div style="width:300px; font-size:80%; text-align:center;">
