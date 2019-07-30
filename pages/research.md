@@ -15,7 +15,7 @@ description: My research
 	create on Earth. What happens when matter is compressed to such extreme densities is one of the biggest questions in
 	modern nuclear physics. My research works to connect astrophysical observations of neutron stars with detailed models of the 
 	stellar interior, in order to understand the fundamental nature of ultra-dense matter. This will in turn help astronomers
-	better understand observations of a vast array of neutron star phenomena -- from core-collapse supernovae, to neutron star mergers
+	better understand observations of a vast array of neutron star phenomena, from core-collapse supernovae, to neutron star merger
 	and gamma-ray bursts.
    </p>
    </div>
