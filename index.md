@@ -46,16 +46,18 @@ img {
    	<img src="../assets/computer_shot.jpg" width="100"/>
    </div>
    -->
- <div class=”gallery”>
-  <figure class=”gallery__item gallery__item--1">
-    <img src="../assets/headshot.jpg" class="gallery__img">
-  </figure>
-  <figure class="gallery__item gallery__item--2">
-    <img src="../assets/computer_shot.jpg" class="gallery__img">
-  </figure>
-  <figure class="gallery__item gallery__item--3">
-    <img src="../assets/einstein.jpg" class="gallery__img">
-  </figure>
+ <div class="span4">
+  <div class=”gallery”>
+   <figure class=”gallery__item gallery__item--1">
+     <img src="../assets/headshot.jpg" class="gallery__img">
+   </figure>
+   <figure class="gallery__item gallery__item--2">
+     <img src="../assets/computer_shot.jpg" class="gallery__img">
+   </figure>
+   <figure class="gallery__item gallery__item--3">
+     <img src="../assets/einstein.jpg" class="gallery__img">
+   </figure>
+  </div>
  </div>
 </div>
 
