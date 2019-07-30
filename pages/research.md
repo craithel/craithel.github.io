@@ -77,7 +77,7 @@ description: My research
 <div class="row-fluid">
  <h4><a name="Thermal effects"></a>Thermal effects in dynamical phenomena</h4>
  <div class="span10">
-   <div style="width:300px; font-size:80%; text-align:center; float:left; margin-right:15px; margin-bottom:15px">
+   <div style="width:300px; font-size:80%; text-align:center; float:left; margin-right:20px; margin-bottom:5px">
    <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em;"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments. <br>
@@ -93,6 +93,8 @@ description: My research
 	We have created a new model of finite-temperature effects in dense-matter that includes more robust physics and
 	remains generally applicable to a wide class of equations of state. This model will allow for more accurate studies of
 	the role of thermal effects in neutron star mergers, core-collapse supernovae, and the cooling of proto-neutron stars.
+	<br>
+	test
    </p>
  </div>
 </div>
