@@ -78,12 +78,20 @@ description: My research
 </div>
 
 
-<div class="span10">
+<div class="row-fluid">
+ <div class="span5">
+   <h4><a name="Thermal effects"></a>Thermal effects in dynamical phenomena</h4>
+   <br>
+   <br>
+   <div style="width:300px; font-size:80%; text-align:center;">
    <img src="../assets/schematic_T_Yp.jpg" 
 	  style="padding-bottom:0.5em; align=left" 
 	  width="300"/>
    Range of temperatures and compositions probed by various terrestrial and astrophysical experiments.
    <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">Raithel, Ozel, Psaltis (2019).</a>
+ </div>
+
+ <div class="span5">
    <p style="font-family:helvetica;">
 	When we model the interior structure of neutron stars, we can usually assume the star is "cold" -- that is, for old, 
 	isolated, neutron stars, they have cooled enough that the thermal pressure is negligible. However, in extreme 
@@ -94,6 +102,7 @@ description: My research
 	remains generally applicable to a wide class of equations of state. This model will allow for more accurate studies of
 	the role of thermal effects in neutron star mergers, core-collapse supernovae, and the cooling of proto-neutron stars.
    </p>
+ </div>
 </div>
 
 <!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->
