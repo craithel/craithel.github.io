@@ -48,8 +48,8 @@ img {
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   grid-gap: 20px;
   align-items: stretch;
-  /*justify-items: center; */
-  margin: auto;
+  justify-items: center; 
+  /*margin: auto;*/
   width: 220px;
   }
 .grid img {
