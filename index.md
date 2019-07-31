@@ -55,7 +55,7 @@ img {
   }
 .grid img {
   border: 1px solid rgba(0,0,0,0.3);
-  box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3);
+  box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.3);
   max-width: 100%;
 }
 .grid img:nth-child(1) {
