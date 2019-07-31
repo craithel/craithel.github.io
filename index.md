@@ -67,11 +67,12 @@ img {
 <br>
 <br>
 <main class="grid">
-  <a href="../assets/computer_shot.jpg"><img src="../assets/computer_shot.jpg" width="400"></a>
-  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" width="100"></a>
-  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" width="100"></a>
+  <a href="../assets/computer_shot.jpg"><img src="../assets/computer_shot.jpg" width="400" height="200"></a>
+  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" height="200"></a>
+  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" height="200"></a>
 </main>
 </div>
+test
 
 </div>
 
