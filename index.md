@@ -53,8 +53,8 @@ img {
   width: 210px;
   }
 .grid a {
-  border: 1px solid rgba(0,0,0,0.3);
-  box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.3);
+  border: 1px solid rgba(0,0,0,0.1);
+  box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.1);
   max-width: 100%;
 }
 .grid a:nth-child(1) {
@@ -62,18 +62,17 @@ img {
   grid-row: span 1;
   }
 </style>
-<div class="span4">
+<div class="span5">
 <br>
 <br>
 <main class="grid">
   <a href="../assets/computer.jpg"><img src="../assets/computer.jpg" width="210"></a>
-  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" width="100"></a>
-  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" width="100"></a>
+  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" width="100" height=140px></a>
+  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" width="100" height=140px></a>
 </main>
 </div>
 
 </div>
-test
 
 </body>
 </html>
