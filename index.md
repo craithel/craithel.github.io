@@ -28,14 +28,10 @@ img {
 	<br>
 	<br>
  My current research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particularly interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
-	<br>
-	<br>
-	<i>Please excuse the mess -- this website is currently under construction...</i>
    </p>
-   <h3><a name="Contact"></a>Contact</h3>
+   <h4><a name="Contact"></a>Contact</h3>
    <p style="font-family:helvetica;">
-        Carolyn Raithel <br/>
-        Email: craithel AT email.arizona.edu <br/>
+        Email: <it> craithel AT email.arizona.edu </it> <br/>
    </p>
 
   </div>
@@ -50,15 +46,15 @@ img {
 .grid { 
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  grid-gap: 10px;
+  grid-gap: 20px;
   align-items: stretch;
-  justify-items: center;
+  /*justify-items: center; */
   margin: auto;
   width: 220px;
   }
 .grid img {
   border: 1px solid rgba(0,0,0,0.3);
-  box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.3);
+  box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3);
   max-width: 100%;
 }
 .grid img:nth-child(1) {
@@ -70,9 +66,9 @@ img {
 <br>
 <br>
 <main class="grid">
-  <img src="../assets/computer_shot.jpg" width="400">
-  <img src="../assets/einstein.jpg">
-  <img src="../assets/nature.jpg">
+  <a href="../assets/computer_shot.jpg"><img src="../assets/computer_shot.jpg" width="400"></a>
+  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg"></a>
+  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg"></a>
 </main>
 </div>
 

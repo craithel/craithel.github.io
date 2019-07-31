@@ -48,6 +48,10 @@ description: My research
 
 
 ### <b>Recent results</b>
+<p style="font-family:helvetica;">
+<it> A few select results. For a complete list of my work, see the <li><a href="{{ BASE_PATH }}/pages/publications.html">Publications page</a></li>.</it>
+</p>
+
 <div class="row-fluid">
  <h4><a name="Tidal deformability"></a>Tidal deformability and NS radius</h4>
  <div class="span6">
