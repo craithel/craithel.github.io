@@ -52,12 +52,12 @@ img {
   margin: auto;
   width: 210px;
   }
-.grid img {
+.grid a {
   border: 1px solid rgba(0,0,0,0.3);
   box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.3);
   max-width: 100%;
 }
-.grid img:nth-child(1) {
+.grid a:nth-child(1) {
   grid-column: span 2;
   grid-row: span 1;
   }
