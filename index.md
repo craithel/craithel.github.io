@@ -5,7 +5,7 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
 ---
 <html>
 <head>
-<style>
+<!--<style>
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -14,6 +14,7 @@ img {
 }
 </style>
 </head>
+-->
 <body>
 
 
@@ -30,7 +31,7 @@ img {
    <br>
    <h4><a name="Contact"></a>Contact</h4>
    <p style="font-family:helvetica;">
-        <i>Email:</i> craithel AT email.arizona.edu
+        <i>craithel AT email.arizona.edu </i>
    <br/>
    </p>
 
