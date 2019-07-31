@@ -47,7 +47,7 @@ img {
 .grid { 
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  grid-gap: 10px;
+  grid-gap: 15px;
   align-items: stretch;
   justify-items: center; 
   margin: auto;
@@ -67,13 +67,14 @@ img {
 <br>
 <br>
 <main class="grid">
-  <a href="../assets/computer_shot.jpg"><img src="../assets/computer_shot.jpg"></a>
+  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg"></a>
   <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg"></a>
   <a href="../assets/nature.jpg"><img src="../assets/nature.jpg"></a>
 </main>
 </div>
 
 </div>
+test
 
 </body>
 </html>
