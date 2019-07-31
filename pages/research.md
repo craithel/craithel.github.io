@@ -14,8 +14,8 @@ description: My research
 	g/cm<sup>3</sup>, making them orders of magnitude more dense than any matter that we can 
 	create on Earth. What happens when matter is compressed to such densities is one of the biggest questions in
 	modern nuclear physics. My research works to connect astrophysical observations of neutron stars with detailed models of the 
-	stellar interior, in order to understand the fundamental nature of ultra-dense matter. This will in turn help astronomers
-	better understand observations of a vast array of neutron star phenomena, from core-collapse supernovae, to neutron star merger
+	stellar interior, in order to understand the fundamental nature of ultra-dense matter. This will, in turn, help astronomers
+	better understand observations of a vast array of neutron star phenomena, from core-collapse supernovae, to neutron star mergers
 	and gamma-ray bursts.
    </p>
    </div>
@@ -69,7 +69,7 @@ description: My research
    <div style="width:300px; font-size:80%; text-align:center;">
    <img src="../assets/Leff_R_withPDF_overlay.jpg" 
 	  style="padding-bottom:0.5em;"/>
-   Tidal deformability from GW170817 can directly probe the neutron star radius.
+   Tidal deformability from gravitational wave events as a direct probe of the neutron star radius.
    <a href="https://iopscience.iop.org/article/10.3847/2041-8213/aabcbf">Raithel, Ozel, Psaltis (2018).</a>
    <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">Raithel (2019).</a>
    </div>
