@@ -58,7 +58,7 @@ img {
   box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.3);
   max-width: 100%;
 }
-.grid img:nth-child(2) {
+.grid img:nth-child(1) {
   grid-column: span 2;
   grid-row: span 2;
   }
@@ -67,7 +67,7 @@ img {
 <br>
 <br>
 <main class="grid">
-  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg"></a>
+  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg" width="220"></a>
   <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg"></a>
   <a href="../assets/nature.jpg"><img src="../assets/nature.jpg"></a>
 </main>
