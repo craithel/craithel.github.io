@@ -68,8 +68,8 @@ img {
 <br>
 <main class="grid">
   <a href="../assets/computer_shot.jpg"><img src="../assets/computer_shot.jpg" width="400"></a>
-  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg"></a>
-  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg"></a>
+  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" width="100"></a>
+  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" width="100"></a>
 </main>
 </div>
 
