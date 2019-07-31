@@ -66,9 +66,9 @@ img {
 <br>
 <br>
 <main class="grid">
-  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg"></a>
-  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg"></a>
-  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg"></a>
+  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg" width="200" height="100"></a>
+  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" width="100" height="200"></a>
+  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" width="100" height="200"></a>
 </main>
 </div>
 
