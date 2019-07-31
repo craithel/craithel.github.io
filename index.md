@@ -31,7 +31,8 @@ img {
    </p>
    <h4><a name="Contact"></a>Contact</h4>
    <p style="font-family:helvetica;">
-        Email: <it> craithel AT email.arizona.edu </it> <br/>
+        Email: <i>craithel AT email.arizona.edu</i>
+   <br/>
    </p>
 
   </div>
@@ -49,7 +50,7 @@ img {
   grid-gap: 20px;
   align-items: stretch;
   justify-items: center; 
-  /*margin: auto;*/
+  margin: auto;
   width: 220px;
   }
 .grid img {
