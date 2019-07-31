@@ -50,11 +50,11 @@ img {
   align-items: stretch;
   justify-items: center; 
   margin: auto;
-  width: 220px;
+  width: 210px;
   }
 .grid img {
   border: 1px solid rgba(0,0,0,0.3);
-  box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.3);
+  box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.3);
   max-width: 100%;
 }
 .grid img:nth-child(1) {
@@ -66,14 +66,13 @@ img {
 <br>
 <br>
 <main class="grid">
-  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg" width="220"></a>
+  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg"></a>
   <a href="../assets/nature.jpg"><img src="../assets/nature.jpg"></a>
   <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg"></a>
 </main>
 </div>
 
 </div>
-test
 
 </body>
 </html>
