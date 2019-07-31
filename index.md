@@ -59,7 +59,7 @@ img {
 }
 .grid img:nth-child(1) {
   grid-column: span 2;
-  grid-row: span 2;
+  grid-row: span 1;
   }
 </style>
 <div class="span4">
