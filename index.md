@@ -44,7 +44,7 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
 .grid a {
   border: 1px solid rgba(0,0,0,0.3);
   box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.1);
-  max-width: 100%;
+  max-width: 105%;
 }
 .grid a:nth-child(1) {
   grid-column: span 2;
