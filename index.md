@@ -4,20 +4,7 @@ title: Carolyn Raithel
 description: Hi! I am a 5th-year astronomy graduate student at the University of Arizona.
 ---
 <html>
-<!--
-<head>
-<style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-</style>
-</head>
--->
 <body>
-
 
 <div class="row-fluid">
   <div class="span6">
@@ -55,7 +42,7 @@ img {
   width: 210px;
   }
 .grid a {
-  border: 1px solid rgba(0,0,0,0.1);
+  border: 1px solid rgba(0,0,0,0.3);
   box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.1);
   max-width: 100%;
 }
@@ -64,7 +51,7 @@ img {
   grid-row: span 1;
   }
 </style>
-<div class="span5">
+<div class="span4">
 <br>
 <br>
 <main class="grid">
