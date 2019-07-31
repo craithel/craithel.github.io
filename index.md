@@ -4,8 +4,9 @@ title: Carolyn Raithel
 description: Hi! I am a 5th-year astronomy graduate student at the University of Arizona.
 ---
 <html>
+<!--
 <head>
-<!--<style>
+<style>
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -67,7 +68,7 @@ img {
 <br>
 <br>
 <main class="grid">
-  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg" width="210"></a>
+  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg"></a>
   <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" width="100" height="140"></a>
   <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" width="100" height="140"></a>
 </main>
