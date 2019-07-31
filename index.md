@@ -35,7 +35,7 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
 .grid { 
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  grid-gap: 10px;
+  grid-gap: 5px;
   align-items: stretch;
   justify-items: center; 
   margin: auto;
@@ -56,13 +56,12 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
 <br>
 <main class="grid">
   <a href="../assets/computer.jpg"><img src="../assets/computer.jpg"></a>
-  <a href="../assets/outside.jpg"><img src="../assets/outside.jpg" height="200"></a>
-  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" height="200"></a>
+  <a href="../assets/outside.jpg"><img src="../assets/outside.jpg"></a>
+  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg"></a>
 </main>
 </div>
 
 </div>
-test
 
 </body>
 </html>
