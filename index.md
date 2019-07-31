@@ -35,7 +35,7 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
 .grid { 
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  grid-gap: 5px;
+  grid-gap: 10px;
   align-items: stretch;
   justify-items: center; 
   margin: auto;
