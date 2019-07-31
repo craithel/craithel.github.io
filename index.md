@@ -29,7 +29,7 @@ img {
 	<br>
  My current research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particularly interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
    </p>
-   <h4><a name="Contact"></a>Contact</h3>
+   <h4><a name="Contact"></a>Contact</h4>
    <p style="font-family:helvetica;">
         Email: <it> craithel AT email.arizona.edu </it> <br/>
    </p>

@@ -49,7 +49,7 @@ description: My research
 
 ### <b>Recent results</b>
 <p style="font-family:helvetica;">
-<it> A few select results. For a complete list of my work, see the <li><a href="{{ BASE_PATH }}/pages/publications.html">Publications page</a></li>.</it>
+*A few select results. For a complete list of my work, see the <a href="{{ BASE_PATH }}/pages/publications.html">Publications page</a>.*
 </p>
 
 <div class="row-fluid">
