@@ -30,7 +30,7 @@ img {
    <br>
    <h4><a name="Contact"></a>Contact</h4>
    <p style="font-family:helvetica;">
-        Email: <i>craithel AT email.arizona.edu</i>
+        <i>Email:</i> craithel AT email.arizona.edu
    <br/>
    </p>
 
@@ -66,13 +66,14 @@ img {
 <br>
 <br>
 <main class="grid">
-  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg" width="200" height="100"></a>
-  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" width="100" height="200"></a>
-  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" width="100" height="200"></a>
+  <a href="../assets/computer.jpg"><img src="../assets/computer.jpg" width="210"></a>
+  <a href="../assets/nature.jpg"><img src="../assets/nature.jpg" width="100"></a>
+  <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" width="100"></a>
 </main>
 </div>
 
 </div>
+test
 
 </body>
 </html>
