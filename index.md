@@ -56,7 +56,7 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
 <br>
 <main class="grid">
   <a href="../assets/computer.jpg"><img src="../assets/computer.jpg"></a>
-  <a href="../assets/nature.jpg" height="200"><img src="../assets/nature.jpg" height="200"></a>
+  <a href="../assets/outside.jpg"><img src="../assets/outside.jpg" height="200"></a>
   <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg" height="200"></a>
 </main>
 </div>
