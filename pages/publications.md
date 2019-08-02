@@ -9,6 +9,7 @@ description: Carolyn's publications
 ##### <b>First author papers</b>
 
 <ul type="square">
+   <li>C. Raithel and F. &Ouml;zel. "Measurement of the Nuclear Symmetry Energy Parameters from Gravitational Wave Events," Submitted to ApJ, July 2019. <a href=""https://arxiv.org/abs/1908.00018>arXiv</a>. </li>
    <li>C. Raithel. "Constraints on the Neutron Star Equation of State from GW170817," Invited review for the EpJA Topical Issue on The First Neutron Star Merger Observation, 2019. <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">EpJA</a> | <a href="https://arxiv.org/pdf/1904.10002.pdf">arXiv</a>. </li>
    <li>C. Raithel, F. &Ouml;zel, and D. Psaltis. "Finite-Temperature Extension for Cold Neutron Star Equations of State." ApJ, Vol. 875, Issue 1, article id. 12, 2019. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">ApJ</a> | <a href="https://arxiv.org/pdf/1902.10735.pdf">arXiv</a>. </li>
    <li>C. Raithel, F. &Ouml;zel, and D. Psaltis. "Tidal Deformability from GW170817 as a Direct Probe of the Neutron Star Radius." ApJL, Vol. 857, Issue 2, article id. L23, 2018. <a href="https://iopscience.iop.org/article/10.3847/2041-8213/aabcbf">ApJL</a> | <a href="https://arxiv.org/pdf/1803.07687.pdf">arXiv</a>. </li>
