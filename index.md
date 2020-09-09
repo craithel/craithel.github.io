@@ -10,11 +10,11 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
   <div class="span6">
    <h3><a name="About me"></a>About me</h3>
    <p style="font-family:helvetica;">
-	Hi! I'm a 5th-year graduate student in Astronomy & Astrophysics at the University of Arizona, where I work with Dr. Feryal &Ouml;zel.
+	I recently completed my PhD in Astronomy & Astrophysics at the University of Arizona, where I worked with Dr. Feryal &Ouml;zel. This fall, I will be starting a joint postdoctoral fellowship at the Institute for Advanced Study, Princeton Center for Theoretical Science, and Princeton Gravity Initiative.
  	<!--I grew up in Cincinnati, OH. In 2015, I received my B.A. in physics from Carleton College in Northfield, MN, where I worked with Dr. Joel Weisbergstudying radio pulsars. -->
 	<br>
 	<br>
- My current research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particularly interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
+ My research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particularly interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
    </p>
    <br>
    <h4><a name="Contact"></a>Contact</h4>
