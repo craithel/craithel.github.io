@@ -1,7 +1,6 @@
 ---
 layout: frontpage
 title: Carolyn Raithel
-description: Hi! I am a 5th-year astronomy graduate student at the University of Arizona.
 ---
 <html>
 <body>
@@ -10,8 +9,7 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
   <div class="span6">
    <h3><a name="About me"></a>About me</h3>
    <p style="font-family:helvetica;">
-	I recently completed my PhD in Astronomy & Astrophysics at the University of Arizona, where I worked with Dr. Feryal &Ouml;zel. This fall, I will be starting a joint postdoctoral fellowship at the Institute for Advanced Study, Princeton Center for Theoretical Science, and Princeton Gravity Initiative.
- 	<!--I grew up in Cincinnati, OH. In 2015, I received my B.A. in physics from Carleton College in Northfield, MN, where I worked with Dr. Joel Weisbergstudying radio pulsars. -->
+	Welcome! I am a joint postdoctoral fellow at the Institute for Advanced Study, Princeton Center for Theoretical Science, and Princeton Gravity Initiative. I completed by PhD in Astronomy & Astrophysics at the University of Arizona, where I worked with Dr. Feryal &Ouml;zel. 
 	<br>
 	<br>
  My research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particularly interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
@@ -19,7 +17,7 @@ description: Hi! I am a 5th-year astronomy graduate student at the University of
    <br>
    <h4><a name="Contact"></a>Contact</h4>
    <p style="font-family:helvetica;">
-        <i>craithel at email.arizona.edu </i>
+        <i>craithel at ias.edu </i>
    <br/>
    </p>
 
