@@ -54,7 +54,7 @@ title: Carolyn Raithel
 <br>
 <main class="grid">
   <a href="../assets/computer.jpg"><img src="../assets/computer.jpg"></a>
-  <a href="../assets/outside.jpg"><img src="../assets/outside.jpg"></a>
+  <a href="../assets/Raithel_headshot.jpg"><img src="../assets/Raithel_headshot.jpg"></a>
   <a href="../assets/einstein.jpg"><img src="../assets/einstein.jpg"></a>
 </main>
 </div>
