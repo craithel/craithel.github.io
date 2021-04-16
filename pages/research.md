@@ -15,7 +15,7 @@ Snapshots from an NS-NS merger simulation, showing the evolution of the thermal 
 </div>
 
 <div class="row-fluid">
-  <div class="span10">
+  <div class="span14">
    <h4><a name="Neutron stars"></a><b>Neutron stars</b></h4>
    <p style="font-family:helvetica;">
 	Neutron stars are one of the most extreme environments in the universe. Their central densities exceed 10<sup>15</sup> 
