@@ -20,6 +20,7 @@ description: My research
    </p>
    </div>
 
+<!-- 
    <html>
    <head>
    <style>
@@ -39,11 +40,19 @@ description: My research
 	 <br>
 	 Artistic representation of a NS-NS merger from Robin Dienel/Carnegie Institution for Science.
 	 </div>
-	 <!--</a>-->
    </div>
    </body>
    </html>
+ -->
+</div>
 
+
+<div class="span8">
+<div style="width:300px; font-size:80%; text-align:center;">
+<img src="../assets/thermalP_merger_evolution.jpg" 
+  style="padding-bottom:0.5em;"/>
+Snapshots from an NS-NS merger simulation, showing the evolution of the thermal pressure over time.
+<a href="https://arxiv.org/abs/2104.07226">Raithel, Paschalidis, Ozel (2021).</a>
 </div>
 
 
