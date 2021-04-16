@@ -56,6 +56,9 @@ Snapshots from an NS-NS merger simulation using a new framework for calculating 
 
 
 ###<b>Recent results</b>
+<div class="row-fluid">
+ <h4><a name="Recent results"></a>Recent results</h4>
+</div>
 <p style="font-family:helvetica;">
 <i>A few select results. For a complete list of my work, see the <a href="{{ BASE_PATH }}/pages/publications.html">Publications page</a>.</i>
 </p>
