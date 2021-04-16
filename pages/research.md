@@ -49,7 +49,7 @@ description: My research
 
 <div class="span10">
 <div style="width:300px; font-size:80%; text-align:center;">
-<img src="../assets/thermalP_merger_evolution.png" 
+<img src="../assets/thermalP_merger_evolution.jpg" 
   style="padding-bottom:0.5em;"/>
 Snapshots from an NS-NS merger simulation, showing the evolution of the thermal pressure over time.
 <a href="https://arxiv.org/abs/2104.07226">Raithel, Paschalidis, Ozel (2021).</a>
