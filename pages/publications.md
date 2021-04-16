@@ -9,6 +9,10 @@ description: Carolyn's publications
 ##### <b>First author papers</b>
 
 <ul type="square">
+   <li>C. Raithel, V. Paschalidis, and F. &Ouml;zel. "Realistic Finite-Temperature Effects in Neutron Star Merger Simulations," submitted to Phys Rev D, 2021. <a href="https://arxiv.org/abs/2104.07226">arXiv</a>. </li>
+<ul type="square">
+   <li>C. Raithel, F. &Ouml;zel, and D. Psaltis. "Optimized Statistical Approach for Comparing Multi-Messenger Neutron Star Data," ApJ, Vol. 908, Issue 1, article id. 103, 2021. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/abd3a4">ApJ</a> | <a href="https://arxiv.org/abs/2004.00656">arXiv</a>. </li>
+<ul type="square">
    <li>C. Raithel and F. &Ouml;zel. "Measurement of the Nuclear Symmetry Energy Parameters from Gravitational Wave Events," ApJ, Vol. 885, Issue 2, article id. 121, 2019. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab48e6">ApJ</a> | <a href="https://arxiv.org/abs/1908.00018">arXiv</a>. </li>
    <li>C. Raithel. "Constraints on the Neutron Star Equation of State from GW170817," Invited review for the EpJA Topical Issue on The First Neutron Star Merger Observation, 2019. <a href="https://link.springer.com/article/10.1140%2Fepja%2Fi2019-12759-5">EpJA</a> | <a href="https://arxiv.org/pdf/1904.10002.pdf">arXiv</a>. </li>
    <li>C. Raithel, F. &Ouml;zel, and D. Psaltis. "Finite-Temperature Extension for Cold Neutron Star Equations of State." ApJ, Vol. 875, Issue 1, article id. 12, 2019. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab08ea">ApJ</a> | <a href="https://arxiv.org/pdf/1902.10735.pdf">arXiv</a>. </li>
