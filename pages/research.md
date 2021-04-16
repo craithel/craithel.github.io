@@ -8,7 +8,7 @@ description: My research
 
 <div class="row-fluid">
   <div class="span14">
-   <h4><a name="Neutron stars"></a><b>Neutron stars</b></h4>
+   <h3><a name="Neutron stars"></a><b>Neutron stars</b></h3>
    <p style="font-family:helvetica;">
 	Neutron stars are one of the most extreme environments in the universe. Their central densities exceed 10<sup>15</sup> 
 	g/cm<sup>3</sup>, making them orders of magnitude more dense than any matter that we can 
@@ -55,9 +55,8 @@ Snapshots from an NS-NS merger simulation using a new framework for calculating 
  -->
 
 
-###<b>Recent results</b>
 <div class="row-fluid">
- <h4><a name="Recent results"></a>Recent results</h4>
+ <h3><a name="Recent results"></a>Recent results</h3>
 </div>
 <p style="font-family:helvetica;">
 <i>A few select results. For a complete list of my work, see the <a href="{{ BASE_PATH }}/pages/publications.html">Publications page</a>.</i>
