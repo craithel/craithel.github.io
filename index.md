@@ -9,7 +9,7 @@ title: Carolyn Raithel
   <div class="span6">
    <h3><a name="About me"></a>About me</h3>
    <p style="font-family:helvetica;">
-	Welcome! I am a joint postdoctoral fellow at the Institute for Advanced Study, Princeton Center for Theoretical Science, and Princeton Gravity Initiative. I completed by PhD in Astronomy & Astrophysics at the University of Arizona in the summer of 2020, where I worked with Dr. Feryal &Ouml;zel. 
+	Welcome! I am a joint postdoctoral fellow at the Institute for Advanced Study, Princeton Center for Theoretical Science, and Princeton Gravity Initiative. I completed my PhD in Astronomy & Astrophysics at the University of Arizona in the summer of 2020, where I worked with Dr. Feryal &Ouml;zel. 
 	<br>
 	<br>
  My research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particularly interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
