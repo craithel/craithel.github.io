@@ -11,8 +11,8 @@ description: My research
    <h3><a name="Neutron stars"></a><b>Neutron stars</b></h3>
    <p style="font-family:helvetica;">
 	Neutron stars are one of the most extreme environments in the universe. Their central densities exceed 10<sup>15</sup> 
-	g/cm<sup>3</sup>, making them orders of magnitude more dense than any matter that we can 
-	create on Earth. What happens when matter is compressed to such densities is one of the biggest questions in
+	g/cm<sup>3</sup>, making them several more dense than matter that can be
+	probed on Earth. What happens when matter is compressed to such densities is one of the big questions in
 	modern nuclear physics. My research works to connect astrophysical observations of neutron stars with detailed models of the 
 	stellar interior, in order to understand the fundamental nature of ultra-dense matter. This will, in turn, help astronomers
 	better understand observations of a vast array of neutron star phenomena, from core-collapse supernovae, to neutron star mergers
