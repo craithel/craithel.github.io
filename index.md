@@ -29,6 +29,8 @@ title: Carolyn Raithel
    	<img src="../assets/computer_shot.jpg" width="100"/>
    </div>
    -->
+   <br>
+   <br>
    <div class="span4">
    	<img src="../assets/PCTS_headshot.jpg" width="200"/>
    </div>
