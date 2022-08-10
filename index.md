@@ -30,7 +30,7 @@ title: Carolyn Raithel
    </div>
    -->
    <div class="span4">
-   	<img src="../assets/PCTS_headshot.jpg" width="100"/>
+   	<img src="../assets/PCTS_headshot.jpg" width="200"/>
    </div>
 <!--
 <style>
@@ -64,8 +64,8 @@ title: Carolyn Raithel
 </div>
 
 </div>
--->
 
 </body>
 </html>
+-->
 
