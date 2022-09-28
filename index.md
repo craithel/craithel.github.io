@@ -9,10 +9,17 @@ title: Carolyn Raithel
   <div class="span6">
    <h3><a name="About me"></a>About me</h3>
    <p style="font-family:helvetica;">
-	Welcome! I am a John N. Bahcall fellow at the Institute for Advanced Study and an Associate Research Scholar at the Princeton Center for Theoretical Science and Princeton Gravity Initiative. I completed my PhD in Astronomy & Astrophysics at the University of Arizona in 2020, where I worked with Dr. Feryal &Ouml;zel. 
+	Welcome! I am a postdoctoral fellow, with joint affiliations at the 
+ 	<a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a>
+       and <a href="https://gravity.princeton.edu/">Princeton Gravity Initiative</a>, and as a John N. Bahcall fellow at 
+	the <a href="https://www.ias.edu/">Institute for Advanced Study.</a> 
+	I completed my PhD in Astronomy & Astrophysics at the <a href="https://www.as.arizona.edu/">University of Arizona</a> in 2020. 
+	Before that, I received my undergraduate degree in physics from <a href="https://www.carleton.edu/">Carleton College</a>.
 	<br>
 	<br>
- My research is focused on understanding the exotic nuclear physics that govern the interiors of neutron stars, using astrophysical observations. Recently, I've been particularly interested in how the dense-matter equation of state impacts gravitational waves emitted by neutron star mergers.
+ I am a theoretical and computational astrophysicist. My research centers on the study of neutron stars.
+ I am particularly interested in using multi-messenger observations of neutron stars to study their interiors, which
+ is a field that has been revolutionized by the advent of gravitational wave astronomy. 
    </p>
    <br>
    <h4><a name="Contact"></a>Contact</h4>
