@@ -9,9 +9,9 @@ title: Carolyn Raithel
   <div class="span6">
    <h3><a name="About me"></a>About me</h3>
    <p style="font-family:helvetica;">
-	Welcome! I am a postdoctoral fellow, with joint affiliations at the 
- 	<a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a>
-       and <a href="https://gravity.princeton.edu/">Princeton Gravity Initiative</a>, and as a John N. Bahcall fellow at 
+	Welcome! I am a joint postdoctoral fellow at the 
+ 	<a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a>,
+        <a href="https://gravity.princeton.edu/">Princeton Gravity Initiative</a>, and as a John N. Bahcall fellow at 
 	the <a href="https://www.ias.edu/">Institute for Advanced Study.</a> 
 	I completed my PhD in Astronomy & Astrophysics at the <a href="https://www.as.arizona.edu/">University of Arizona</a> in 2020. 
 	Before that, I received my undergraduate degree in physics from <a href="https://www.carleton.edu/">Carleton College</a>.
