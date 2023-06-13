@@ -21,12 +21,13 @@ title: Carolyn Raithel
  I am particularly interested in using multi-messenger observations of neutron stars to study their interiors, which
  is a field that has been revolutionized by the advent of gravitational wave astronomy. 
  <br>
- In Fall of 2024, I will be starting as an Assistant Professor of Physics at <a href="https://www.swarthmore.edu/">Swarthmore College</a>.
+ <br>
+ In Fall of 2024, I will start as an Assistant Professor of Physics at <a href="https://www.swarthmore.edu/">Swarthmore College</a>.
  <br>
  </p>
 
    <br>
-   <h4><a name="Questions? Contact me at:"></a>Contact</h4>
+   <h4><a name="Questions? Contact me at:"></a>Questions? Contact me at:</h4>
    <p style="font-family:helvetica;">
         <i>craithel at ias.edu </i>
    <br/>
