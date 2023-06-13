@@ -23,16 +23,14 @@ title: Carolyn Raithel
  <br>
  In Fall of 2024, I will be starting as an Assistant Professor of Physics at <a href="https://www.swarthmore.edu/">Swarthmore College</a>.
  <br>
- Questions? Contact me at:  <i>craithel at ias.edu </i>
-  <!---
-   </p>
+ </p>
+
    <br>
-   <h4><a name="Contact"></a>Contact</h4>
+   <h4><a name="Questions? Contact me at:"></a>Contact</h4>
    <p style="font-family:helvetica;">
         <i>craithel at ias.edu </i>
    <br/>
    </p>
-  --->
 
   </div>
 
