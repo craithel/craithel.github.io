@@ -20,6 +20,11 @@ title: Carolyn Raithel
  I am a theoretical and computational astrophysicist. My research centers on the study of neutron stars.
  I am particularly interested in using multi-messenger observations of neutron stars to study their interiors, which
  is a field that has been revolutionized by the advent of gravitational wave astronomy. 
+ <br>
+ In Fall of 2024, I will be starting as an Assistant Professor of Physics at <a href="https://www.swarthmore.edu/">Swarthmore College</a>.
+ <br>
+ Questions? Contact me at:  <i>craithel at ias.edu </i>
+  <!---
    </p>
    <br>
    <h4><a name="Contact"></a>Contact</h4>
@@ -27,6 +32,7 @@ title: Carolyn Raithel
         <i>craithel at ias.edu </i>
    <br/>
    </p>
+  --->
 
   </div>
 
