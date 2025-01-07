@@ -9,7 +9,12 @@ title: Carolyn Raithel
   <div class="span6">
    <h3><a name="About me"></a>About me</h3>
    <p style="font-family:helvetica;">
-	Welcome! I am a joint postdoctoral fellow at the 
+ 	Welcome! I am an Assistant Professor of Physics and Astronomy at 
+	<a href="https://www.swarthmore.edu/">Swarthmore College</a>.
+
+
+
+	I was previously a joint postdoctoral fellow at the 
  	<a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a>,
         <a href="https://gravity.princeton.edu/">Princeton Gravity Initiative</a>, and as a John N. Bahcall fellow at 
 	the <a href="https://www.ias.edu/">Institute for Advanced Study.</a> 
@@ -22,14 +27,12 @@ title: Carolyn Raithel
  is a field that has been revolutionized by the advent of gravitational wave astronomy. 
  <br>
  <br>
- In Fall of 2024, I will start as an Assistant Professor of Physics at <a href="https://www.swarthmore.edu/">Swarthmore College</a>.
- <br>
  </p>
 
    <br>
    <h4><a name="Questions? Contact me at:"></a>Questions? Contact me at:</h4>
    <p style="font-family:helvetica;">
-        <i>craithel at ias.edu </i>
+        <i>craithe1 at swarthmore.edu </i>
    <br/>
    </p>
 
