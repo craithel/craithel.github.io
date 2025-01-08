@@ -9,7 +9,7 @@ title: Carolyn Raithel
   <div class="span6">
    <h3><a name="About me"></a>About me</h3>
    <p style="font-family:helvetica;">
- 	Welcome! I am an Assistant Professor of Physics and Astronomy at 
+ 	Welcome! I am an Assistant Professor of Physics at 
 	<a href="https://www.swarthmore.edu/">Swarthmore College</a>.
 
 
