@@ -6,9 +6,10 @@ description: Carolyn's publications
 
 #### <b>You can find my papers on <a href="https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22raithel%2C%20carolyn%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">ADS</a> or on <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=raithel%2C+carolyn&terms-0-field=author&terms-1-operator=OR&terms-1-term=raithel%2C+c.+a.&terms-1-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first">arXiv</a>.</b>
 
-##### <b>First author papers</b>
+##### <b>First author papers (reverse chronological order)</b>
 
-<ul type="square">
+<!-- <ul type="square"> --!>
+<ol>
    <li> C. A. Raithel and V. Paschalidis. "Detectability of Finite-Temperature Effects from Neutron Star Mergers with Next-Generation Gravitational Wave Detectors," PRD, Volume 110, Issue 4, 2024. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.043002">PRD</a> | <a href="https://arxiv.org/abs/2312.14046">arXiv</a> </li>
    <li>  C. A. Raithel and V. Paschalidis. "Influence of Stellar Compactness on Finite-Temperature Effects in Neutron Star Merger Simulations," PRD, Volume 108, Issue 8, 2023. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.083029">PRD</a> | <a href="https://arxiv.org/abs/2306.13144">arXiv</a>. </li>
    <li> C. A. Raithel and E. R. Most. "Degeneracy in the Inference of Phase Transitions in the Neutron Star Equation of State from Gravitational Wave Data." PRL, Volume 130, Issue 20, 2023. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.201403">PRL</a> | <a href="https://arxiv.org/abs/2208.04294">arXiv</a>. </li>
@@ -28,6 +29,7 @@ description: Carolyn's publications
  <li>C. Raithel, F. &Ouml;zel, and D. Psaltis. "From Neutron Star Observables to the Equation of State. I. An Optimal Parametrization." ApJ, Vol. 831, Issue 1, 44, 2016. <a href="https://arxiv.org/pdf/1605.03591.pdf">ApJ</a> | <a href="https://iopscience.iop.org/article/10.3847/0004-637X/831/1/44">arXiv</a>.</li>
  <li>C. Raithel, F. &Ouml;zel, and D. Psaltis. "Model-Independent Inference of Neutron Star Radii from Moment of Inertia Measurements." PRC, Vol. 93, Issue 3, id.032801, 2016. <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.032801">PRC</a> | <a href="https://arxiv.org/pdf/1603.06594.pdf">arXiv</a>.</li>
  <li>C. Raithel, R. M. Shannon, S. Johnston, and M. Kerr. "Two Radio Emission Mechanisms in PSR J0901-4624." ApJ Letters, Vol. 804, Issue 1, L18, 2015. <a href="https://iopscience.iop.org/article/10.1088/2041-8205/804/1/L18">ApJ Letters</a> | <a href="https://arxiv.org/pdf/1503.04490.pdf">arXiv</a>.
+</ol>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
